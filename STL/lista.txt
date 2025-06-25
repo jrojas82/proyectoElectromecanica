@@ -1,0 +1,20 @@
+54 belt link_r2
+4 delivery
+2 encoder_spacer
+3 LH_pillow_block
+3 RH_pillow_block
+2 side_rail
+4 sprocket_r1
+1 conveyor_final_r1
+1 cross_brace
+1 encoder_mount
+1 Lh_idle
+1 rh_idle
+1 side_rail
+1 sprocket_r1
+1 stepper_mount_part_1
+1 stepper_mount_part_2
+
+
+
+
